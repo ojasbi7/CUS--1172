@@ -21,6 +21,8 @@
 
 <h3> Work Experience/Internships </h3>
 
-<ul>
-  <li> hashhas </li>
-  </ul>
+<ol>
+  <li> Salvation Army - Volunteer Services / November, 2013 to May, 2014 </li>
+
+<ul> Coordinated food, clothing and household items for disadvantaged individuals and families. </ul>
+  </ol>
