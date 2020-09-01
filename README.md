@@ -5,7 +5,8 @@
 
 <ol>
   <li> My name is Ojasbi Dhungana. I am from Nepal. I am an Undergraduate student at St. Johns University.  My major is information technology and I currently do not have any minors. </li>
-  <a href="https://ibb.co/M5H73hP"><img src="https://i.ibb.co/5x3Lf9s/Screen-Shot-2020-09-01-at-6-55-26-PM.png" alt="Screen-Shot-2020-09-01-at-6-55-26-PM" border="0"></a>
+ <img src= "https://www.kindpng.com/imgv/ixJxxh_transparent-avatar-png-male-avatar-icon-transparent-png/'> 
+
 </ol>  
 <hr>
 
