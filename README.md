@@ -14,5 +14,13 @@
   
   <ol>
   <li> I graduated from William Cullen Bryant High School to recieve my High School diploma. After graduation I attended Monroe College to complete my Associate degree in Business Administration. After receiving my associate degree I transferred to St. Johns University and I am currently in the path to receive my Bachelors in  information technology. </li>
+  
+  
   </ol>
   <hr>
+
+<h3> Work Experience/Internships </h3>
+
+<ul>
+  <li> hashhas </li>
+  </ul>
