@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title> MERO </title>
+    MERO 
   </head>
   
 
