@@ -57,7 +57,7 @@
   
   <h7> Favorite Website section </h7>
   <ul>
- <li> My Faviorite wesite is Youtube. Youtube is my go to place if I have free time. In youtube there are millions of videos to watch to kill your boredom or if you want to gain knowledge. From Comedy to educational videos, Youtube has it all.
+ <li> My Favorite website is Youtube. Youtube is my go-to website for anything. In youtube there are millions of videos to watch to kill your boredom or if you want to gain knowledge. From Comedy to educational videos, Youtube has it all.
   <a href="https://www.youtube.com/" target = "_blank"> Go to Youtube </a> 
  </li>
  </ul>
