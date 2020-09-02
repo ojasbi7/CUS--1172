@@ -24,7 +24,18 @@
 <ol>
   <li> Salvation Army - Volunteer Services / November, 2013 to May, 2014 </li>
 </ol>
+
 <ul> 
   <li> Coordinated food, clothing and household items for disadvantaged individuals and families.</li> 
 </ul>
+ 
+<hr>
+
+<h4> Programming Skills section </h4>
+<ul>
+  <li> I took 2 semester of Computer Science and I learned about Java. We used the software called Eclipse to learn about it. Although I took 2 years of Computer Science, I would still consider my skills to be beginner. That is because I had a hard time understanding the professors as they were very unclear. </li>
+  </ul>
+  
+  <hr>
+  
   
