@@ -1,10 +1,6 @@
 <html>
-  <head>
-    MERO 
-  </head>
-  
-
-<body>
+ 
+ 
 <h1> Ojasbi Dhungana </h1>
 <hr>
 
