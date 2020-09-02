@@ -38,4 +38,14 @@
   
   <hr>
   
+  <h5> General Interests section </h5>
+  <ul>
+  <li> I have a lot of hobbies, one of them is playing soccer. I've been playing soccer since I was 6 years old and it's one of the only things in my life that cheers me up when I am down. Another one of my hobbies is traveling. Every summer and winter, I go to different places to Hike/ camp. Even if it's not a long distance travel I still love to go somewhere in my free time. </li>
+  </ul>
+  
+  <hr>
+  
+  <h6> Favorite song, film, and TV show section </h6>
+  <ul>
+  <li>
   
