@@ -47,5 +47,8 @@
   
   <h6> Favorite song, film, and TV show section </h6>
   <ul>
-  <li>
+  <li> My faviorite song is a nepali song called Allare by Deepak Bajracharya. My faviorite film is a South Indian movie called KGF. My faviorite TV show is Money Heist. </li>
+  </ul>
+  
+  <hr>
   
