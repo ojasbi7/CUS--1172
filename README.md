@@ -2,8 +2,9 @@
  
  
 <h1> Ojasbi Dhungana </h1>
-<hr>
 
+<div> CUS 1172 </div>
+<hr>
 <h2> Basic Profile Information </h2>
 
 <ul>
@@ -62,3 +63,6 @@
  <li> Another one of my Favorite website is Facebook. With Facebook, I can connect to all my families and be in contact with them daily. My family is all over the world and they all use Facebook. With Facebook it has been so easy for me to see what my families and friends are up to.
   <a href="https://www.facebook.com/" target = "_blank"> Click here to go to Facebook </a> </li>
  </ul>
+<hr>
+
+
