@@ -3,7 +3,7 @@
  
 <h1> Ojasbi Dhungana </h1>
 
-<div> CUS 1172 </div>
+<div> Project 1 </div>
 <hr>
 <h2> Basic Profile Information </h2>
 
